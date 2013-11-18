@@ -1,0 +1,16 @@
+{
+	"reponame":"sample-af-kitchen-sink",
+	"title":"App Framework Kitchen Sink",
+	"tooltip":"[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
+	"description":"[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
+	"articleurl":"",
+    	"screenshotUrl":"",
+    	"iconUrl":"",
+	"highlights":["App Designer", "App Framework"],
+    	"keywords":["App Designer", "App Framework"],
+	"visible": "true",
+	"apppreview":"true",
+	"type":"appdesigner",
+	"appname":"demo.afkitchensink",
+	"relname":"4.0.0"
+}
