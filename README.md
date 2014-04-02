@@ -1,11 +1,12 @@
-App Framework Kitchen Sink
+App Framework Sample
 ============================
-App Framework Kitchen Sink is a simple app that shows various UI components that can be used in an app
+The App Framework Sample is a simple app that shows various UI components that can be used in an app
 
 Intel(R) XDK 
 -------------------------------------------
 This sample is part of the Intel(R) XDK. 
-Please sign up the beta at http://software.intel.com/en-us/html5.
+Download the Intel(R) XDK at http://software.intel.com/en-us/html5. To see the technical details of the sample, 
+please visit the sample article page at http://software.intel.com/en-us/html5/articles/intel-xdk-app-framework-sample.
 
 
 Important App Files
