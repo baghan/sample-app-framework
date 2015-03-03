@@ -1,35 +1,9 @@
-App Framework Sample
-====================
+Blank HTML App Designer Template for Building Packaged Mobile Web Apps
+======================================================================
+
+Copyright © 2012-2015, Intel Corporation. All rights reserved.
 
 See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
-
-The App Framework Sample is a simple app that shows various UI components that
-can be used in an app.
-
-### Intel(R) XDK
-
-This sample is part of the Intel XDK.
-Download the Intel XDK at <http://xdk.intel.com>.
-
-To see the technical details of the sample, please visit the sample article page at:
-<http://software.intel.com/en-us/html5/articles/intel-xdk-app-framework-sample>.
-
-###Important App Files
-
-* index.html
-* icon.png
-* screenshot.png
-* app.json
-* README.md
-* js/*
-* app_framework/*
-* css/*
-* sidebar/*
-* images/*
-
-
-Additional Notes from Blank App Designer Template
-=================================================
 
 Use this template as a starting point for an Intel XDK App Designer project that
 will be distributed as a *packaged mobile web app*. The file named `init-dev.js`

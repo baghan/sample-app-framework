@@ -1,5 +1,5 @@
-Intel® XDK Samples License Terms and Conditions
-===============================================
+Intel® HTML5 Samples License Terms and Conditions
+=================================================
 
 Copyright © 2012-2015, Intel Corporation. All rights reserved.
 
@@ -29,9 +29,3 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-IMAGES: *.png; images/*.png
----------------------------
-All images are created by Intel Corp. and are licensed under the
-Creative Commons Attribution 3.0 license: <http://creativecommons.org/licenses/by/3.0/us/>
