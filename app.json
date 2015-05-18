@@ -1,42 +1,23 @@
 {
-<<<<<<< HEAD
-=======
    "description" : "[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
    "appPreview" : true,
    "repoName" : "sample-app-framework",
    "articleUrl" : "http://software.intel.com/en-us/html5/articles/intel-xdk-app-framework-sample",
    "relName" : null,
->>>>>>> master
    "highlights" : [
       "App Designer",
       "App Framework"
    ],
-<<<<<<< HEAD
-   "type" : "appdesigner",
-   "repoName" : "sample-app-framework",
-   "relName" : null,
-=======
    "projectTypeName" : "com.intel.xdk.projecttype.webapp",
    "mobile" : false,
->>>>>>> master
    "keywords" : [
       "App Designer",
       "App Framework"
    ],
-<<<<<<< HEAD
-   "visible" : "true",
-   "appPreview" : "true",
-   "articleUrl" : "http://software.intel.com/en-us/html5/articles/intel-xdk-app-framework-sample",
-   "tooltip" : "[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
-   "title" : "App Framework Sample",
-   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
-   "description" : "[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
-   "appName" : null
-=======
    "tooltip" : "[App Designer Ready] A simple app that shows various App Framework UI components that can be used",
    "visible" : true,
    "appName" : null,
    "title" : "App Framework Sample",
    "type" : "appdesigner"
->>>>>>> master
 }
+
