@@ -5,6 +5,27 @@ Copyright © 2012-2015, Intel Corporation. All rights reserved.
 
 See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
 
+This sample is part of the Intel® XDK. 
+Download the Intel® XDK at [http://software.intel.com/en-us/html5](http://software.intel.com/en-us/html5). To see the technical details of the sample, 
+please visit the **[included tutorial][]**. 
+[included tutorial]: docs/README.md
+
+Project File Information
+------------------------
+
+The `icon.png` and `screenshot.png` files are not required by your project. They
+are included for use by the Intel XDK template/demo panel and have no use within
+a real app. You can safely delete them from your project directory.
+
+The `cordova.js` script is needed to provide your app with access to Cordova
+APIs. To add Cordova APIs to your application you must add the corresponding
+Cordova plugins. See the *Plugins* section on the **Projects** tab.
+
+Project Details
+---------------
+
+
+
 Use this template as a starting point for an Intel XDK App Designer project that
 will be distributed as a *packaged mobile web app*. The file named `init-dev.js`
 included as part of this project contains init code that generates an
@@ -50,3 +71,15 @@ your project into a Cordova project. You can do this by clicking the Cordova
 icon in the *Project Info* section on the **Projects** tab. Or, you can create a
 new Cordova project using a Cordova blank template or a Cordova demo or sample
 app as a starting point.
+
+Important App Files
+---------------------------
+* index.html
+* icon.png
+* screenshot.png
+* app.json
+* README.md
+* js/*
+* css/*
+* images/*
+* app_framework/*
