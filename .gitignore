@@ -9,4 +9,7 @@
 !/intelxdk.config.additions.xml
 !/*.xdk
 !/.gitignore
-!/*.png
+!/.jscodehints
+!/app.json
+!/screenshot.png
+!/icon.png
